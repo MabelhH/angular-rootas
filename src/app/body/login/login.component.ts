@@ -66,7 +66,7 @@ export class LoginComponent implements  OnInit{
 
   send(): any{
     console.log(this.formLogin.value)
-    alert('terminaste con exto')
+    alert('terminaste con exito')
   }
 
 }
