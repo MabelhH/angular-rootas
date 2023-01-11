@@ -2,12 +2,18 @@ div{
 justify-content: flex-start;
 background-color: rgb(0, 0, 0);
 color: azure;
-padding: 4px;
+padding: 5px;
 }
 ul,li,a{
     color: aliceblue;
     font-size: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
     
+}
+
+h2{
+    margin-left: 20px;
 }
 
 
